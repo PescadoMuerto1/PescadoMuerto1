@@ -6,7 +6,7 @@ I build full-stack and mobile applications with a focus on realtime systems, mob
 
 **Main stack**
 
-Flutter • React • Node.js • TypeScript • MongoDB • Socket.IO • Docker
+Flutter • React • Node.js • TypeScript • Dart • MongoDB • Socket.IO • Docker
 
 ---
 
